@@ -10,6 +10,8 @@
 ;;
 ;; Copyright (C) Mike Williams 1990, 1991
 ;;
+;; License: GPL
+;;
 ;; This is free software.
 ;; This file is not part of GNU Emacs, but is made available under the
 ;; same conditions.
